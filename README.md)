@@ -1,0 +1,48 @@
+# 🏪 CKA Tuckshop - International Snacks Website
+
+## Welcome to CKA Tuckshop! 🌍
+
+A modern, fully responsive tuckshop website featuring snacks and treats from around the world with smooth animations, marquee effects, and interactive features.
+
+---
+
+## ✨ Features
+
+### 🎨 **Visual Design**
+- Modern gradient backgrounds with vibrant color schemes
+- Smooth transitions and hover effects
+- Responsive grid layouts
+- Card-based product and country displays
+
+### 🔄 **Marquee Animations**
+- Continuous scrolling text animations
+- Multiple marquee speeds and directions
+- Promotional banner with offers
+- Product carousel with infinite scroll effect
+
+### 🎭 **Interactive Elements**
+- Smooth scroll navigation
+- Animated counters (stats section)
+- Form validation and success messages
+- Ripple effects on buttons
+- Keyboard navigation (Arrow keys)
+- Scroll-to-top button
+- Parallax scrolling effects
+
+### 🌐 **International Theme**
+- **Asia** 🏯 - Instant Noodles, Rice Crackers, Shrimp Chips, Mochi
+- **Africa** 🦁 - Plantain Chips, Peanut Brittle, Cassava Crisps, Roasted Nuts
+- **Europe** 🏰 - Belgian Waffles, Swiss Chocolate, French Pastries, Danish Cookies
+- **Americas** 🗽 - Mexican Chips, Popcorn, Beef Jerky, Pizza Snacks
+- **Middle East** 🕌 - Hummus Crisps, Pistachio Mix, Baklava, Tahini Snacks
+- **India** 🕉️ - Samosa, Aloo Bhujia, Mixture, Rice Puffs
+
+### 📱 **Responsive Design**
+- Mobile-first approach
+- Fully responsive on all devices
+- Optimized breakpoints for tablets and desktops
+- Touch-friendly buttons and navigation
+
+---
+
+## 📂 Project Structure
